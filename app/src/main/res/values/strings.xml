@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string-array name="currency_array">
+        <item>Pound</item>
+        <item>Euro</item>
+        <item>Indian Rupee</item>
+    </string-array>
+    <string name="usd">United States Dollar</string>
+    <string name="inputHint">Enter Amount in $</string>
+    <string name="outputHint">Result</string>
+    <string name="exit">Exit</string>
+</resources>
