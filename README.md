@@ -8,7 +8,7 @@ Version 1
 <li>Using a Spinner to allow users to choose the currency to be converted</li>
 <li>Making a GET request to the web api <a href="http://api.fixer.io/latest">http://api.fixer.io/latest</a> to fetch latest conversion rates</li>
 <li>Parsing the incoming JSON data to display the output for the selected currency</li>
-<li>Verifying if the device is connected to Internet else displayin appropriate error</li>
+<li>Verifying if the device is connected to Internet else displaying appropriate error</li>
 <li>Tested on: Android API 25 (Nougat)</li>
 <li>Minimum Supported Android API: 15 (IceCream Sandwich)</li>
 <li>Currently converting USD to Euros, Pound and Indian Rupees</li>
